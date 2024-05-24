@@ -6,14 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn CICD on AWS for React app
+          Learn CICD on AWS for Static React Application
         </a>
       </header>
     </div>
