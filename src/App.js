@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn CICD on AWS for Static React Application
+          Learn CICD on AWS for Static React Application Ragul
         </a>
       </header>
     </div>
